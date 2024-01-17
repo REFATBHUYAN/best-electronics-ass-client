@@ -12,7 +12,7 @@ const Features = () => {
             </p>
           </div>
           <div className="h-full  w-full  mx-auto flex-none rounded-[10px] object-cover shadow-xl lg:max-w-sm">
-            <img src="/public/music.png" alt="" />
+            <img src="/music.png" alt="" />
           </div>
         </div>
       </div>

@@ -1,11 +1,6 @@
-# React + Vite
+### Live Website Link: 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [https://melodymusics.netlify.app/](https://melodymusics.netlify.app/)
 
 ## Frontend Setup
 
@@ -17,13 +12,13 @@ To set up the Frontend of the project, follow these steps:
 git clone [https://github.com/REFATBHUYAN/best-electronics-ass-client.git]
 ```
 
-### Step 2: Clone the Frontend Repository
+### Step 2: run the below command for install all dependence  
 
 ```bash
 npm i
 ```
 
-### Step 3: Clone the Frontend Repository
+### Step 3: run below command to start the client site
 
 ```bash
 npm run dev
